@@ -2,7 +2,7 @@
 const model = {
     app: {
         currentPage: 'About', //mainPage, aboutPage?, projectsPage, 
-        subHeader: 'HTML JAVASCRIPT CSS AND MORE TO COME',
+        subHeader: 'HTML JAVASCRIPT CSS C# AND MORE TO COME',
     },
 
     //data
