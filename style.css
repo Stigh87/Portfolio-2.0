@@ -24,7 +24,7 @@ li{
 #pageContainer {
 height: 100vh;
 width: 100vw;
-background-image: url(https://stigh87.github.io/portfolio2.0/bilder/backgroundFull.png);
+background-image: url(bilder/backgroundImg.png);
 background-blend-mode: darken;
 min-width: 345px;
 }

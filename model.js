@@ -124,5 +124,15 @@ const model = {
             app: '',
             description: 'Console APP - Simulator: Simulates behaviour of an officebuilding through a week. Temperature changes, workhours, and lights. ',
         },
+        {
+            name: 'BUILDING, NAVIGATION AND EDIT',
+            date: '01.02.22',
+            languages: ['JAVA',],
+            img: 'bilder/BuildingEditor.png',
+            imgSize: 'web',
+            link: 'https://github.com/Stigh87/RomNavigasjon.iml',
+            app: '',
+            description: 'Console APP: Navigate and add, remove or edit rooms in a building. ',
+        },
     ],
 };
